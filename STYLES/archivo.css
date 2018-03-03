@@ -1,0 +1,173 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+}
+
+ nav:first-child {
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+}
+ nav:nth-child(2){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  margin: auto ;
+}
+ nav:nth-child(3){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: auto  ;
+}
+nav:nth-child(4){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto  ;
+}
+
+ nav:nth-child(5){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  margin: auto ;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  }
+nav:nth-child(6){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto  ;
+}
+ nav:nth-child(7){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  bottom: 0;
+  margin: auto  ;
+}
+ nav:nth-child(8){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto  ;
+}
+ nav:nth-child(9){
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: auto  ;
+}
+nav div:first-child{
+ width: 35px;
+ height: 35px;
+ background: blue;
+ position: absolute;
+}
+ nav div:nth-child(2){
+ width: 35px;
+ height: 35px;
+ background: blue;
+ position: absolute;
+ left: 0;
+ top: 0;
+ right: 0;
+ margin: auto ;
+}
+ nav div:nth-child(3){
+ width: 35px;
+ height: 35px;
+ background: blue;
+ position: absolute;
+ top: 0;
+ right: 0;
+ margin: auto  ;
+}
+ nav div:nth-child(4){
+  width: 35px;
+  height: 35px;
+  background: blue;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto  ;
+}
+ nav div:nth-child(5){
+ width: 35px;
+ height: 35px;
+ background: blue;
+ position: absolute;
+ margin: auto ;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ }
+ nav div:nth-child(6){
+   width: 35px;
+   height: 35px;
+   background: blue;
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   margin: auto  ;
+ }
+ nav div:nth-child(7){
+  width: 35px;
+  height: 35px;
+  background: blue;
+  position: absolute;
+  bottom: 0;
+  margin: auto  ;
+}
+nav div:nth-child(8){
+  width: 35px;
+  height: 35px;
+  background: blue;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto  ;
+}
+nav div:nth-child(9){
+  width: 35px;
+  height: 35px;
+  background: blue;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: auto  ;
+}
